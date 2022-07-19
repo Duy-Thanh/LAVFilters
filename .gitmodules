@@ -3,7 +3,7 @@
 	url = https://github.com/mpc-hc/FFmpeg.git
 [submodule "libbluray"]
 	path = libbluray
-	url = git://git.1f0.de/libbluray.git
+	url = https://code.videolan.org/videolan/libbluray.git
 [submodule "qsdecoder"]
 	path = qsdecoder
-	url = git://git.1f0.de/qsdecoder.git
+	url = https://github.com/dimonds90/qsdecoder.git
